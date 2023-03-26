@@ -1,0 +1,11 @@
+A function that calls itself is known as a recursive function. And, this technique is known as recursion.
+To prevent infinite recursive calls, if...else statement or similar approach is used.
+It uses stack memory.
+
+Advantages:
+1. It makes Code shorter.
+2. It is used in graph or tree traversal.
+
+Disadvantages:
+1. It takes more time and space complexity.
+2. Difficult to debug than Iterative function.
